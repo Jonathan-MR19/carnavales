@@ -14,8 +14,19 @@
   font-family: 'Rubik Mono One', monospace;
   font-size: 2rem;
   width: 100vw;
+  animation: wa 3s
   
 }
+
+@keyframes wa {
+  from {
+  opacity: 0%;
+  }
+  to {
+  opacity: 100%;
+  }
+  }
+
 :root {
   --dark-color: #000;
 }
