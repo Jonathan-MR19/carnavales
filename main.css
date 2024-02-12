@@ -8,12 +8,12 @@
 
 #texto{
   position: absolute;
-  left: 50vw;
+  justify-content: center;
   top: 20vh;
-  transform: translateX(-50%) ;
   color: #ffffff;
   font-family: 'Rubik Mono One', monospace;
   font-size: 3rem;
+  width: 100vw;
   
 }
 :root {
