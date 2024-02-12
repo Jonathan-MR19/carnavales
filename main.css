@@ -6,6 +6,16 @@
   box-sizing: border-box;
 }
 
+#texto{
+  position: absolute;
+  left: 50vw;
+  top: 20vh;
+  transform: translateX(-50%) ;
+  color: #ffffff;
+  font-family: 'Rubik Mono One', monospace;
+  font-size: 3rem;
+  
+}
 :root {
   --dark-color: #000;
 }
